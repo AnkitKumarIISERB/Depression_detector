@@ -1,0 +1,41 @@
+Results:
+
+Q1: Over the last two weeks, how often have you had little interest or pleasure in doing things?
+You said: 
+Emotion: neutral
+
+Q2: How often have you felt down, depressed, or hopeless?
+You said: 
+Emotion: happy
+
+Q3: Do you have trouble falling or staying asleep, or sleeping too much?
+You said: 
+Emotion: neutral
+
+Q4: Have you felt tired or had little energy?
+You said: 
+Emotion: happy
+
+Q5: How often have you had poor appetite or overeating?
+You said: 
+Emotion: neutral
+
+Q6: Do you feel bad about yourself or that you are a failure?
+You said: 
+Emotion: surprise
+
+Q7: Do you have trouble concentrating on things?
+You said: 
+Emotion: surprise
+
+Q8: Have you been moving or speaking slowly or being fidgety?
+You said: 
+Emotion: neutral
+
+Q9: Have you had thoughts that you'd be better off dead, or of hurting yourself?
+You said: 
+Emotion: neutral
+
+Estimated Depression Risk Score: 0/9
+
+✅ Low risk of depression.
