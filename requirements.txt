@@ -1,0 +1,10 @@
+vosk==0.3.45
+numpy
+opencv-python
+deepface
+pyttsx3
+sounddevice
+matplotlib
+fpdf
+Pillow
+textblob
